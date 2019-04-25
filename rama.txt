@@ -2,3 +2,8 @@ jdkdjdkdjkdjdk test
 test2
 final test
 test mvn
+See also:
+Java Developer Newsletter: From your Oracle account, select Subscriptions, expand Technology, and subscribe to Java.
+Java Developer Day hands-on workshops (free) and other events
+Java Magazine
+JDK 8u211 checksum 
